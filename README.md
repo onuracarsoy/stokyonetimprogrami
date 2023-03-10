@@ -1,4 +1,4 @@
-+ Kurumsal fatularınızı basabilen basit GSM şirketi stok programıdır.
++ Telefon stoklarını ve çeşitli aksesuarların stoğunu tutabileceğiniz ayrıca kurumsal fatura çıktısı oluşturabilen basit GSM şirketi stok programıdır. 
 
 + GitHub dosya boyutundan dolayı izin vermedğinden .zip şeklinde konulmuştur
 
