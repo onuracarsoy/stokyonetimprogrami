@@ -5,35 +5,35 @@ Kullanıcıların ürün ekleme, güncelleme, silme ve listeleme işlemlerini ko
 
 ✨ Özellikler
 
-Ürün ekleme (isim, miktar, fiyat vb.)
+• Ürün ekleme (isim, miktar, fiyat vb.)
 
-Mevcut ürünleri güncelleme ve silme
+• Mevcut ürünleri güncelleme ve silme
 
-Ürünleri listeleme ve arama
+• Ürünleri listeleme ve arama
 
-Basit veritabanı bağlantısı (SQL / LocalDB)
+• Basit veritabanı bağlantısı (SQL / LocalDB)
 
 🛠️ Kullanılan Teknolojiler
 
-C#
+• C#
 
-Windows Forms / WPF (proje yapısına göre)
+• Windows Forms / WPF (proje yapısına göre)
 
-ADO.NET / SQL Server LocalDB
+• ADO.NET / SQL Server LocalDB
 
 🚀 Çalıştırma
 
-Repoyu klonla:
+• Repoyu klonla:
 
 git clone https://github.com/onuracarsoy/stokyonetimprogrami.git
 cd stokyonetimprogrami
 
 
-Visual Studio ile projeyi aç
+• Visual Studio ile projeyi aç
 
-NuGet paketlerini geri yükle (gerekirse)
+• NuGet paketlerini geri yükle (gerekirse)
 
-Projeyi çalıştır (F5)
+• Projeyi çalıştır (F5)
 
 ![GirişYap](https://user-images.githubusercontent.com/115365153/224332614-318fa5f9-d3f8-4657-8445-22728e9602a3.png)
 
