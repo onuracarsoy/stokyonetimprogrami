@@ -17,7 +17,7 @@ Kullanıcıların ürün ekleme, güncelleme, silme ve listeleme işlemlerini ko
 
 • C#
 
-• Windows Forms / WPF (proje yapısına göre)
+• Windows Forms
 
 • ADO.NET / SQL Server LocalDB
 
