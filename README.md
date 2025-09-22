@@ -23,17 +23,17 @@ Kullanıcıların ürün ekleme, güncelleme, silme ve listeleme işlemlerini ko
 
 🚀 Çalıştırma
 
-• Repoyu klonla:
+1. Repoyu klonla:
 
 git clone https://github.com/onuracarsoy/stokyonetimprogrami.git
 cd stokyonetimprogrami
 
 
-• Visual Studio ile projeyi aç
+2. Visual Studio ile projeyi aç
 
-• NuGet paketlerini geri yükle (gerekirse)
+3. NuGet paketlerini geri yükle (gerekirse)
 
-• Projeyi çalıştır (F5)
+4. Projeyi çalıştır (F5)
 
 ![GirişYap](https://user-images.githubusercontent.com/115365153/224332614-318fa5f9-d3f8-4657-8445-22728e9602a3.png)
 
