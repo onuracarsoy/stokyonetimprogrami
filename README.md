@@ -1,4 +1,4 @@
-📌 Proje Özeti (TR)
+📌 Proje Özeti
 
 Stok Yönetim Programı, ürün stoklarını takip etmek için geliştirilmiş basit bir masaüstü uygulamasıdır.
 Kullanıcıların ürün ekleme, güncelleme, silme ve listeleme işlemlerini kolayca yapabilmesini sağlar. Özellikle küçük işletmeler veya eğitim amaçlı projeler için uygundur.
