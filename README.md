@@ -1,6 +1,39 @@
-+ Telefon stoklarını ve çeşitli aksesuarların stoğunu tutabileceğiniz ayrıca kurumsal fatura çıktısı oluşturabilen basit GSM şirketi stok programıdır. 
+📌 Proje Özeti (TR)
 
-+ Database kısmında mssql kulanılmıştır zipin içerinde .mdf ve .log dosyaları mevcuttur attach ederek açılabilir.
+Stok Yönetim Programı, ürün stoklarını takip etmek için geliştirilmiş basit bir masaüstü uygulamasıdır.
+Kullanıcıların ürün ekleme, güncelleme, silme ve listeleme işlemlerini kolayca yapabilmesini sağlar. Özellikle küçük işletmeler veya eğitim amaçlı projeler için uygundur.
+
+✨ Özellikler
+
+Ürün ekleme (isim, miktar, fiyat vb.)
+
+Mevcut ürünleri güncelleme ve silme
+
+Ürünleri listeleme ve arama
+
+Basit veritabanı bağlantısı (SQL / LocalDB)
+
+🛠️ Kullanılan Teknolojiler
+
+C#
+
+Windows Forms / WPF (proje yapısına göre)
+
+ADO.NET / SQL Server LocalDB
+
+🚀 Çalıştırma
+
+Repoyu klonla:
+
+git clone https://github.com/onuracarsoy/stokyonetimprogrami.git
+cd stokyonetimprogrami
+
+
+Visual Studio ile projeyi aç
+
+NuGet paketlerini geri yükle (gerekirse)
+
+Projeyi çalıştır (F5)
 
 ![GirişYap](https://user-images.githubusercontent.com/115365153/224332614-318fa5f9-d3f8-4657-8445-22728e9602a3.png)
 
