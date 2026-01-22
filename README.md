@@ -62,16 +62,3 @@ Fatura Ekleme
 - Uygulama veritabanına bağlanamıyorsa: LocalDB kurulumunu ve connection string'i kontrol edin.
 - Eksik NuGet paketleri hatası alırsanız: Visual Studio'da paketleri geri yükleyin veya `dotnet restore` çalıştırın (project türüne göre).
 
-## Katkıda bulunma
-- Hatalar, iyileştirme önerileri veya yeni özellik talepleri için Issues açabilirsiniz.
-- Kod katkısı yapmak isterseniz fork -> branch -> pull request akışını kullanın.
-
-## Lisans
-Bu proje açık kaynaklıdır. (Varsa spesifik bir lisans ekleyin; yoksa belirtin veya bir lisans dosyası ekleyin.)
-
-## İletişim
-Geliştirici: onuracarsoy  
-E-posta veya GitHub üzerinden iletişime geçebilirsiniz.
-
----
-Not: İstediğiniz takdirde bu dosyayı doğrudan repoya commit edebilirim ve/veya içerikte değişiklik yapabilirim (ör. detaylı veritabanı scriptleri, lisans türü, geliştirme notları). Fotoğraflar repoda olduğu gibi korunmuştur.
